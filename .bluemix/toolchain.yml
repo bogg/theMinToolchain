@@ -3,6 +3,8 @@ version: '2'
 template:
   name: "A minimal Toolchain"
   description: "This toolchain will be used in Functional System Test."
+toolchain:
+  name: xyzzy
 services:
   messaging:
     service_id: slack
