@@ -1,0 +1,5 @@
+---
+version: '2'
+template:
+  name: "A Toolchain with a custom tool"
+  description: "This toolchain will be used in Functional System Test."
