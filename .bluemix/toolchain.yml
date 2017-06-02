@@ -1,5 +1,7 @@
 ---
 version: '2'
 template:
-  name: "A Toolchain with a custom tool"
+  name: "A minimal Toolchain"
   description: "This toolchain will be used in Functional System Test."
+services:
+  service_id: slack
