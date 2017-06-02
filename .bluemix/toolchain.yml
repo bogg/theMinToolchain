@@ -8,6 +8,3 @@ toolchain:
 services:
   messaging:
     service_id: slack
-    parameters:
-      a: "hh"
-      b: "ii"
